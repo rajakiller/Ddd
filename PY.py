@@ -12,10 +12,10 @@ import os
 # @LASTWISHES0# insert your Telegram bot token here
 
     
-bot = telebot.TeleBot('7395754249:AAH6K6fBJ_UyZpOO78SXj7B5q-_EOZbQhWs')
+bot = telebot.TeleBot('7460046125:AAFAj4XEaZpCsnOgpH5yiD-kQBj3Mx57ZH0')
 
 # @LASTWISHES0 # Admin user IDs
-admin_id = ["6769245930","6769245930"]
+admin_id = ["6882674372","6882674372"]
 
 # @LASTWISHES0 # File to store allowed user IDs
 USER_FILE = "users.txt"
